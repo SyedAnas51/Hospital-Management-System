@@ -25,12 +25,12 @@ This repository contains an Object-Oriented Programming (OOP) project implemente
 - **Dentist**: Inherits from Staff, adds specialization and degree.
 - **Nurse**: Inherits from Staff, adds years of experience.
 - **Patient**: Class to store patient details like name, age, gender, illness, and a unique ID.
-- **Hospital**: Manages arrays of staff and patients, provides functions for adding, displaying, deleting records, and handling file operations.
+- **Hospital**: Manages arrays of staff and patients, and provides functions for adding, displaying, deleting records, and handling file operations.
 
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/hospital-management-system.git
+   git clone https://github.com/hospital-management-system.git
    cd hospital-management-system
 
 2. Compile the program:
@@ -60,7 +60,7 @@ Choose the desired option by entering the corresponding number.
 
  File Structure
 
-- main.cpp: Contains the main function and the implementation of the Hospital Management System.
+- main.CPP: Contains the main function and the implementation of the Hospital Management System.
 
  Contributors
 
